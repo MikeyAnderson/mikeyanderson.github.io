@@ -1,0 +1,21 @@
+.heroes {
+
+
+}
+
+.hero {
+          background-color: #FFFBEF;
+          width: auto;
+          max-width: 1080px;
+          height:600px;
+          background-color: center;
+          background-size: auto;
+          background-repeat: no-repeat;
+        }
+
+.article {
+    max-width: 1080px;
+
+
+
+}
