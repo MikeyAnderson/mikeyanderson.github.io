@@ -41,7 +41,7 @@ p {
 .card {
   width: 758px;
   height: 450px;
-  margin-top: 25%;
+  margin-top: 20%;
   padding: 80px;
   float: right;
   margin-right: 5%;
@@ -179,7 +179,7 @@ p {
   .card {
     width: 300px;
     height: 200px;
-    margin-top: 115%;
+    margin-top: 100%;
     padding: 25px;
     float: right;
     margin-right: 10%;
